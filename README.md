@@ -4,7 +4,7 @@
 
 <img src="./dark.svg" width="100%" alt="Animated Banner"/>
 
-### 💻 Full Stack Developer
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🔒 Cybersecurity Learner
 ### 🤖 AI Enthusiast
 ### 🔒 Cybersecurity Learner
 
